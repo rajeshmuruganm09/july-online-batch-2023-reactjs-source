@@ -5,6 +5,7 @@ export default function Layout(){
     return(
         <>
          <HeaderComp />
+         <h1>Layout of the React project</h1>
             <Outlet/>
          <FooterComp />
         </>
